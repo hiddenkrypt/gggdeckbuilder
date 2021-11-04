@@ -1,3 +1,7 @@
+#ignore whatever the deck is
+*.json
+
+
 # Logs
 logs
 *.log
