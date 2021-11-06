@@ -1,6 +1,8 @@
 #ignore whatever the deck is
 *.json
-
+#no need for output files lol
+output
+output/*
 
 # Logs
 logs
